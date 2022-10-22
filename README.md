@@ -5,24 +5,41 @@ A new Flutter project.
 with null safety 
 
 Fluter Future Builder 
+
 Flutter Theme 
+
 Flutter Media Query.
+
 shared_preferences
+
 state managment - provider
+
 flutter_iconly
+
 card_swiper
+
 fancy_shimmer_image
+
 flutter_staggered_grid_view
+
 badges
+
 flutter_spinkit
+
 flutter assets
 
 # Firebase
+
 firebase_core
+
 firebase_auth
+
 google_sign_in
+
 fluttertoast
+
 cloud_firestore
+
 uuid
 
 ![image1](https://user-images.githubusercontent.com/75587814/197356933-d347d109-211e-4ed8-a3d8-28968b52dbb8.jpeg)
