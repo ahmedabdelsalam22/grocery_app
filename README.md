@@ -1,46 +1,49 @@
 # Grocery app
 
-A new Flutter project.
+A new Flutter project. 
 
-with null safety 
 
-Fluter Future Builder 
+#in this App i'm use this features ..
 
-Flutter Theme 
+- with null safety 
 
-Flutter Media Query.
+- Fluter Future Builder 
 
-shared_preferences
+- Flutter Theme 
 
-state managment - provider
+- Flutter Media Query.
 
-flutter_iconly
+- shared_preferences
 
-card_swiper
+- state managment - provider
 
-fancy_shimmer_image
+- flutter_iconly
 
-flutter_staggered_grid_view
+- card_swiper
 
-badges
+- fancy_shimmer_image
 
-flutter_spinkit
+- flutter_staggered_grid_view
 
-flutter assets
+- badges
+
+- flutter_spinkit
+
+- flutter assets
 
 # Firebase
 
-firebase_core
+- firebase_core
 
-firebase_auth
+- firebase_auth
 
-google_sign_in
+- google_sign_in
 
-fluttertoast
+- fluttertoast
 
-cloud_firestore
+- cloud_firestore
 
-uuid
+- uuid
 
 ![image1](https://user-images.githubusercontent.com/75587814/197356933-d347d109-211e-4ed8-a3d8-28968b52dbb8.jpeg)
 ![image1](https://user-images.githubusercontent.com/75587814/197356936-e04cd385-13b6-471e-9c8e-70924f1c98c1.jpeg)
